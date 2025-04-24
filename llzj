@@ -1,0 +1,2 @@
+S=nyanpass OPTIMIZE=1 bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t f3776e40-5152-4712-bebe-a11576e8ef26 -u https://ny.123445566-ld.net"
+wget https://gitee.com/annkoxx/root/raw/master/d11.sh && bash d11.sh
