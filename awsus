@@ -1,0 +1,3 @@
+S=usv4 bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 5174653c-126a-43de-881a-c388f693137c -u https://ny.188002.xyz"
+S=usv6 bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 2c4e3c28-70c6-4191-8a97-25488b49bb6c -u https://ny.188002.xyz"
+bash <(curl -sL "https://scripts.zeroteam.top/PortForwardGo/tcp.sh") && sysctl --system
