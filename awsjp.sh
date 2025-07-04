@@ -1,7 +1,6 @@
 S=v4 bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t b7139130-8f9d-4eca-b17c-7f7e382b7ad7 -u https://ny.188002.xyz"
 S=v6 bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 81dd0034-434b-4270-83a4-3083d75f157f -u https://ny.188002.xyz"
 S=BANANALINK bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t f339e7ee-6f03-4aff-92aa-202f442ed0eb -u https://37838527.bananalink.one"
-S=null bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 32a5b89d-be0f-40c9-9704-8413ce849bbd -u https://ny.papawall.cc"
 S=zhuji bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 2be3d506-db74-410a-aa99-a9cc4b65cba0 -u https://bbq.zhujipai.cloud"
 S=nygou bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 11c2055a-6ae7-4144-b1c4-f7cf332b47da -u https://ny.gou.wtf"
 S=nyzayu bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 8d711578-aa2e-4982-bef4-0693bf83aa07 -u https://ny.zayu.life"
