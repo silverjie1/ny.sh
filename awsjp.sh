@@ -7,4 +7,5 @@ S=nyzayu bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) re
 S=nymoku bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t cf4363b9-f3e3-40df-923b-2475b7dac176 -u https://relay.moku.pro"
 S=nynekowireless bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 6820e4f5-08bb-4375-abe1-f0b341a5c280 -u https://relay-panel.nekowireless.io" 
 S=nypcdnyj bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t dd8349c-b2cf-4874-8595-2044e8a24808 -u https://ny.pcdnyj.xyz"
+S=zhu bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 1dd8349c-b2cf-4874-8595-2044e8a24808 -u https://ny.pcdnyj.xyz"
 bash <(curl -sL "https://scripts.zeroteam.top/PortForwardGo/tcp.sh") && sysctl --system
