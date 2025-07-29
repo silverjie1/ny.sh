@@ -1,11 +1,4 @@
 S=v4 bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t b7139130-8f9d-4eca-b17c-7f7e382b7ad7 -u https://ny.188002.xyz"
 S=v6 bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 81dd0034-434b-4270-83a4-3083d75f157f -u https://ny.188002.xyz"
 S=BANANALINK bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t f339e7ee-6f03-4aff-92aa-202f442ed0eb -u https://37838527.bananalink.one"
-S=zhuji bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 2be3d506-db74-410a-aa99-a9cc4b65cba0 -u https://bbq.zhujipai.cloud"
-S=nygou bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 11c2055a-6ae7-4144-b1c4-f7cf332b47da -u https://ny.gou.wtf"
-S=nyzayu bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 8d711578-aa2e-4982-bef4-0693bf83aa07 -u https://ny.zayu.life"
-S=nymoku bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t cf4363b9-f3e3-40df-923b-2475b7dac176 -u https://relay.moku.pro"
-S=nynekowireless bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 6820e4f5-08bb-4375-abe1-f0b341a5c280 -u https://relay-panel.nekowireless.io" 
-S=nypcdnyj bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t dd8349c-b2cf-4874-8595-2044e8a24808 -u https://ny.pcdnyj.xyz"
-S=zhu bash <(curl -fLSs https://dl.nyafw.com/download/nyanpass-install.sh) rel_nodeclient "-o -t 1dd8349c-b2cf-4874-8595-2044e8a24808 -u https://ny.pcdnyj.xyz"
 bash <(curl -sL "https://scripts.zeroteam.top/PortForwardGo/tcp.sh") && sysctl --system
